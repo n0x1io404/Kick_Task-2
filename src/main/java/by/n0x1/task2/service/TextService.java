@@ -1,4 +1,4 @@
-package by.n0x1.task2.services;
+package by.n0x1.task2.service;
 
 import java.util.*;
 import java.util.regex.Matcher;
